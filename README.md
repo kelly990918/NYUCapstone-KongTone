@@ -1,7 +1,7 @@
 
 ![KongTone banner](https://github.com/kelly990918/NYUCapstone/blob/main/KongTone-banner.png)
 
-(![English version](http://github.com/kelly990918/NYUCapstone/new/main?filename=README.md#kongtone))(![Chinese version](https://github.com/kelly990918/NYUCapstone/new/main?filename=README.md#%E6%B8%AF%E9%80%9A))
+(![English version]())(![Chinese version](https://github.com/kelly990918/NYUCapstone/tree/main?tab=readme-ov-file#%E6%B8%AF%E9%80%9A))
 ---
 # KONGTONE
 
