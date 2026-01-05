@@ -18,7 +18,7 @@ This is not a perfect proposal, but at least the best I can accomplish at this s
 - Platform: digital (website & web app)
 - Content arrangement: multimedia, interactive courses
 - Target audience: Cantonese as Second Language (CSL) learners, second-/ third-generation immigrants, diaspora communities
-- Revenue streams: in-app sales, display ads, native ads
+- Revenue streams: in-app currency sales, display ads, native ads
 
 ### See page preview!
 <img style="height: 300px; width: auto;" alt="English desktop" src="https://github.com/kelly990918/NYU-Capstone-KongTone/blob/main/desktop-en.png">
@@ -49,7 +49,7 @@ This is not a perfect proposal, but at least the best I can accomplish at this s
 - 平台：數位（網站、網路應用程式）
 - 內容形式：多媒體互動課程
 - 受眾：以廣東話作為外語者、第二/三代移民、離散群體
-- 營利模式：平台代幣、數位廣告、原生廣告
+- 營利模式：平台代幣銷售、數位廣告、原生廣告
 
 ### 網站預覽！
 <img style="height: 300px; width: auto;" alt="English desktop" src="https://github.com/kelly990918/NYUCapstone-KongTone/blob/main/desktop-tc.png">
